@@ -8,6 +8,13 @@ FRENCH="https://iptv-org.github.io/iptv/languages/fra.m3u"
 
 OUT="combined.m3u"
 
-echo "#EXTM3U" > $OUT
+# Write single M3U header
+echo "#EXTM3U" > "$OUT"
 
-curl -s "$ARABIC" | tail -n +2 >> $OUT
+# Append Arabic channels (skip header)
+curl -s "$ARABIC" | tail -n +2 >> "$OUT"
+
+# Append French channels (skip header)
+curl -s "$FRENCH" | tail -n +2 >> "$OUT"
+
+echo "✅ Combined Arabic + French playlist created: $OUT"
