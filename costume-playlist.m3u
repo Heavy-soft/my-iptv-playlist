@@ -1,42 +1,40 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="General",Al Aoula Inter
-http://176.65.146.103:8033/play/a076
-#EXTINF:-1 group-title="General",Al Aoula Inter HD
-http://176.65.146.103:8033/play/a06z
-#EXTINF:-1 group-title="General",Al Insen TV
-http://176.65.146.103:8033/play/a06i
-#EXTINF:-1 group-title="General",Al JANOUBIA TV
-http://176.65.146.103:8033/play/a06g
-#EXTINF:-1 group-title="General",Al Maghribia
-http://176.65.146.103:8033/play/a073
-#EXTINF:-1 group-title="General",Arryadia
-http://176.65.146.103:8033/play/a071
-#EXTINF:-1 group-title="General",Assadissa
-http://176.65.146.103:8033/play/a074
-#EXTINF:-1 group-title="General",Athaqafia
-http://176.65.146.103:8033/play/a072
-#EXTINF:-1 group-title="General",Attessia TV
-http://176.65.146.103:8033/play/a06c
-#EXTINF:-1 group-title="General",BERBERE TV
-http://176.65.146.103:8033/play/a07j
-#EXTINF:-1 group-title="General",Carthage+
-http://176.65.146.103:8033/play/a06h
-#EXTINF:-1 group-title="General",Elhiwar Ettounsi
-http://176.65.146.103:8033/play/a06a
-#EXTINF:-1 group-title="General",HANNIBAL TV
-http://176.65.146.103:8033/play/a06j
-#EXTINF:-1 group-title="General",Laayoune TV
-http://176.65.146.103:8033/play/a077
-#EXTINF:-1 group-title="General",Nessma Ejdida
-http://176.65.146.103:8033/play/a06m
-#EXTINF:-1 group-title="General",TUNISNA
-http://176.65.146.103:8033/play/a06b
-#EXTINF:-1 group-title="General",Tamazight
-http://176.65.146.103:8033/play/a075
-#EXTINF:-1 group-title="General",Telvza TV
-http://176.65.146.103:8033/play/a06f
-#EXTINF:-1 group-title="General",Tunisia NAT 1
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/2fdf5f2153778b0d61dfa28a7a2e170a.png" group-title="General",Al Watania 1
 http://176.65.146.103:8033/play/a069
-#EXTINF:-1 group-title="General",Tunisia NAT 2
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4fb1563ce414d903b38f9a7cade9f62d.png" group-title="General",Al Watania 2
 http://176.65.146.103:8033/play/a06e
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/e3cdec1bd88c9af7425a37a3be904cdd.png" group-title="General",Nessma Ejdida
+http://176.65.146.103:8033/play/a06m
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/8fcaf0ce18cf400a78df1364b394d90f.png" group-title="General",Attessia TV
+http://176.65.146.103:8033/play/a06c
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/cdc57388a615c7dede67da92f5088565.jpg" group-title="General",Carthage+
+http://176.65.146.103:8033/play/a06h
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/28ff58b740775c20bb6399e3f08d5ac0.png" group-title="General",Elhiwar Ettounsi
+http://176.65.146.103:8033/play/a06a
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/36d9a1f7e3c2a69f74dc86c6288352ee.png" group-title="General",Hannibal TV
+http://176.65.146.103:8033/play/a06j
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/846cbed51912dd4ab59d4b02263e367b.png" group-title="General",Telvza TV
+http://176.65.146.103:8033/play/a06f
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/23be70dc4a8edaab002a69fc90455c63.png" group-title="General",Tunisna
+http://176.65.146.103:8033/play/a06b
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/37f77021f465397ac107441c12798451.png" group-title="General",Al Insen TV
+http://176.65.146.103:8033/play/a06i
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/dfe762d1862deafd829657f7a02b6f2e.png" group-title="General",Al Janoubia TV
+http://176.65.146.103:8033/play/a06g
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/847dc72d032cff94b129a80f0bc26a30.png" group-title="General",Zitouna TV
+http://176.65.146.103:8033/play/a075
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/a05355a02cfddcd13e23e2ddea852eef.jpg" group-title="General",Sahel TV
+http://176.65.146.103:8033/play/a071
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/92b757127c3e4144c3cbb11345bfb7dd.png" group-title="General",Jawhara FM
+http://176.65.146.103:8033/play/a072
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/2fdf5f2153778b0d61dfa28a7a2e170a.png" group-title="General",Al Aoula Inter
+http://176.65.146.103:8033/play/a076
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/4fb1563ce414d903b38f9a7cade9f62d.png" group-title="General",Al Aoula Inter HD
+http://176.65.146.103:8033/play/a06z
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-05/cdc57388a615c7dede67da92f5088565.jpg" group-title="General",Al Maghribia
+http://176.65.146.103:8033/play/a073
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-074/8fcaf0ce18cf400a78df1364b394d90f.png" group-title="General",Assadissa
+http://176.65.146.103:8033/play/a074
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/37f77021f465397ac107441c12798451.png" group-title="General",Athaqafia
+http://176.65.146.103:8033/play/a072
