@@ -1555,5 +1555,43 @@ https://live-radio-cf-vrt.akamaized.net/groupb/live/eee20dc8-158a-4194-8d92-0c5a
 https://live-radio-cf-vrt.akamaized.net/groupb/live/0f394a26-c87d-475e-8590-e9c6e79b28d9/live.isml/.m3u8
 #EXTINF:-1 tvg-id="ZeeOne.uk@French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Zee_One_Logo_2025.png" group-title="Entertainment",Zee One Français (720p)
 https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8
-#EXTINF:-1 tvg-name="Custom Stream" group-title="Custom",Custom Stream
-http://176.65.146.103:8033/playlist.m3u8
+#EXTINF:-1,Al Aoula Inter
+http://176.65.146.103:8033/play/a076
+#EXTINF:-1,Al Aoula Inter HD
+http://176.65.146.103:8033/play/a06z
+#EXTINF:-1,Al Insen TV
+http://176.65.146.103:8033/play/a06i
+#EXTINF:-1,Al JANOUBIA TV
+http://176.65.146.103:8033/play/a06g
+#EXTINF:-1,Al Maghribia
+http://176.65.146.103:8033/play/a073
+#EXTINF:-1,Arryadia
+http://176.65.146.103:8033/play/a071
+#EXTINF:-1,Assadissa
+http://176.65.146.103:8033/play/a074
+#EXTINF:-1,Athaqafia
+http://176.65.146.103:8033/play/a072
+#EXTINF:-1,Attessia TV
+http://176.65.146.103:8033/play/a06c
+#EXTINF:-1,BERBERE TV
+http://176.65.146.103:8033/play/a07j
+#EXTINF:-1,Carthage+
+http://176.65.146.103:8033/play/a06h
+#EXTINF:-1,Elhiwar Ettounsi
+http://176.65.146.103:8033/play/a06a
+#EXTINF:-1,HANNIBAL TV
+http://176.65.146.103:8033/play/a06j
+#EXTINF:-1,Laayoune TV
+http://176.65.146.103:8033/play/a077
+#EXTINF:-1,Nessma Ejdida
+http://176.65.146.103:8033/play/a06m
+#EXTINF:-1,TUNISNA
+http://176.65.146.103:8033/play/a06b
+#EXTINF:-1,Tamazight
+http://176.65.146.103:8033/play/a075
+#EXTINF:-1,Telvza TV
+http://176.65.146.103:8033/play/a06f
+#EXTINF:-1,Tunisia NAT 1
+http://176.65.146.103:8033/play/a069
+#EXTINF:-1,Tunisia NAT 2
+http://176.65.146.103:8033/play/a06e
