@@ -1,41 +1,42 @@
 #EXTM3U
-#EXTINF:-1,Al Aoula Inter
+
+#EXTINF:-1 group-title="General",Al Aoula Inter
 http://176.65.146.103:8033/play/a076
-#EXTINF:-1,Al Aoula Inter HD
+#EXTINF:-1 group-title="General",Al Aoula Inter HD
 http://176.65.146.103:8033/play/a06z
-#EXTINF:-1,Al Insen TV
+#EXTINF:-1 group-title="General",Al Insen TV
 http://176.65.146.103:8033/play/a06i
-#EXTINF:-1,Al JANOUBIA TV
+#EXTINF:-1 group-title="General",Al JANOUBIA TV
 http://176.65.146.103:8033/play/a06g
-#EXTINF:-1,Al Maghribia
+#EXTINF:-1 group-title="General",Al Maghribia
 http://176.65.146.103:8033/play/a073
-#EXTINF:-1,Arryadia
+#EXTINF:-1 group-title="General",Arryadia
 http://176.65.146.103:8033/play/a071
-#EXTINF:-1,Assadissa
+#EXTINF:-1 group-title="General",Assadissa
 http://176.65.146.103:8033/play/a074
-#EXTINF:-1,Athaqafia
+#EXTINF:-1 group-title="General",Athaqafia
 http://176.65.146.103:8033/play/a072
-#EXTINF:-1,Attessia TV
+#EXTINF:-1 group-title="General",Attessia TV
 http://176.65.146.103:8033/play/a06c
-#EXTINF:-1,BERBERE TV
+#EXTINF:-1 group-title="General",BERBERE TV
 http://176.65.146.103:8033/play/a07j
-#EXTINF:-1,Carthage+
+#EXTINF:-1 group-title="General",Carthage+
 http://176.65.146.103:8033/play/a06h
-#EXTINF:-1,Elhiwar Ettounsi
+#EXTINF:-1 group-title="General",Elhiwar Ettounsi
 http://176.65.146.103:8033/play/a06a
-#EXTINF:-1,HANNIBAL TV
+#EXTINF:-1 group-title="General",HANNIBAL TV
 http://176.65.146.103:8033/play/a06j
-#EXTINF:-1,Laayoune TV
+#EXTINF:-1 group-title="General",Laayoune TV
 http://176.65.146.103:8033/play/a077
-#EXTINF:-1,Nessma Ejdida
+#EXTINF:-1 group-title="General",Nessma Ejdida
 http://176.65.146.103:8033/play/a06m
-#EXTINF:-1,TUNISNA
+#EXTINF:-1 group-title="General",TUNISNA
 http://176.65.146.103:8033/play/a06b
-#EXTINF:-1,Tamazight
+#EXTINF:-1 group-title="General",Tamazight
 http://176.65.146.103:8033/play/a075
-#EXTINF:-1,Telvza TV
+#EXTINF:-1 group-title="General",Telvza TV
 http://176.65.146.103:8033/play/a06f
-#EXTINF:-1,Tunisia NAT 1
+#EXTINF:-1 group-title="General",Tunisia NAT 1
 http://176.65.146.103:8033/play/a069
-#EXTINF:-1,Tunisia NAT 2
+#EXTINF:-1 group-title="General",Tunisia NAT 2
 http://176.65.146.103:8033/play/a06e
