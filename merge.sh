@@ -10,8 +10,8 @@ UK="https://iptv-org.github.io/iptv/countries/gb.m3u"
 CANADA="https://iptv-org.github.io/iptv/countries/ca.m3u"
 BELGIUM="https://iptv-org.github.io/iptv/countries/be.m3u"
 
-# Your custom single stream
-CUSTOM_STREAM="http://176.65.146.103:8033/playlist.m3u8"
+# Your custom playlist
+CUSTOM="https://raw.githubusercontent.com/Heavy-soft/my-iptv-playlist/refs/heads/main/costume-playlist.m3u"
 
 OUT="combined.m3u"
 
@@ -29,10 +29,6 @@ append_playlist "France" "$FRANCE"
 append_playlist "United Kingdom" "$UK"
 append_playlist "Canada" "$CANADA"
 append_playlist "Belgium" "$BELGIUM"
+append_playlist "Custom Playlist" "$CUSTOM"
 
-# Add single custom stream manually
-echo "➕ Adding Custom Stream"
-echo '#EXTINF:-1 tvg-name="Custom Stream" group-title="Custom",Custom Stream' >> "$OUT"
-echo "$CUSTOM_STREAM" >> "$OUT"
-
-echo "✅ Combined playlist created: $OUT"
+echo "✅ Combined playlist created (USA removed): $OUT"
