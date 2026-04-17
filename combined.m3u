@@ -438,10 +438,10 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-drama/567b703c19ede6
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 #EXTINF:-1 tvg-id="MBCPlusDrama.sa@SD" tvg-logo="https://i.imgur.com/lxWdjXG.png" group-title="Movies",MBC+ Drama (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
-#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi 1 TV Arabic (720p)
-https://streaming2.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",Medi 1 TV Maghreb (720p)
-https://streaming2.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVArabic.ma@SD" tvg-logo="https://i.imgur.com/3YsZPY6.jpeg" group-title="News",Medi 1 TV Arabic (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist.m3u8
+#EXTINF:-1 tvg-id="Medi1TVMaghreb.ma@SD" tvg-logo="https://i.imgur.com/F5OFQsp.jpeg" group-title="News",Medi 1 TV Maghreb (1080p)
+https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist.m3u8
 #EXTINF:-1 tvg-id="MekameleenTV.tr@SD" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",Mekameleen TV (1080p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MelodyFM.jo@SD" tvg-logo="https://i.imgur.com/J8omcNz.png" group-title="Music",Melody FM Jordan (720p) [Not 24/7]
